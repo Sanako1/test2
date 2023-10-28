@@ -1,0 +1,213 @@
+@media screen and (max-width: 1350px) {
+    .parallax-container .parallax img {
+        width: 120% !important;
+       
+    }
+}
+@media screen and (max-width: 1024px) {
+    #Home {
+        padding: 220px 0;
+    }
+    #Home h1 {
+        font-size: 75px !important;
+    }
+    #Tools {
+        height: 600px  !important;
+    }
+    #Tools .row {
+        justify-content: center;
+        display: flex;
+        width: 80%;
+    }
+    #Tools .row h5 {
+        font-size: 18px !important;
+    }
+    .parallax-container .parallax img {
+        width: 130% !important;
+    }
+}
+@media screen and (max-width: 992px) {
+    #About img {
+        max-width: 60%;
+        margin: 0 auto;
+        display: flex;
+    }
+    #Services .row {
+        max-width: 700px;
+    }
+    .card .card-image img {
+        top: -200px !important;
+    }
+    .card .card-content {
+        margin-top: -92px;
+    }
+    #smg-btn {
+        margin-top: 18px !important;
+    }
+    #Services {
+        padding: 60px 20px 0px !important;
+    }
+    #CTA {
+        padding: 60px 20px !important;
+    }
+    .page-footer #connect img {
+        margin-right: 10px !important
+        ;
+    }
+}
+@media screen and (max-width: 967px) {
+    #Projects {
+        height: 975px !important;
+    }
+}
+/* @media screen and (max-width: 1600px) {
+    .container {
+        max-width: 80%;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .container {
+    
+    }
+
+    #Home h1 {
+        font-size: 80px;
+        line-height: 1.3em;
+    }
+
+    #Home {
+        padding: 200px;
+    }
+
+    #Projects {
+        margin-bottom: 0;
+    }
+
+    #Projects .container {
+        padding: 0px 0 300px;
+    }
+
+    #Tools {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #headerNav{
+        max-width: 100%;
+        width: 100%;
+    }
+
+    #headerNav {
+        padding: 0 50px;
+    }
+}
+
+/*@media only screen and (min-width: 601px){
+    .row .col.m6 {
+    width: 50%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+}*/
+/* @media screen and(max-width: 990px) {
+    #Services .card{
+        padding: 200px 0 !important;
+    }
+}
+
+@media screen and (width: 767px) {
+    #Home {
+        padding: 200px 0;
+    }
+
+    #About .col {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #Services .col {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    #Services .services {
+        max-width: 80%;
+    }
+
+    .parallax-content .col {
+        width: 33.33% !important;
+    }
+
+    #Tools .row {
+        max-width: 80%;
+    }
+
+    .row .col.s12 {
+        width: 100% !important;
+    }
+
+    #Services .row.services .col {
+        width: 100% !important;
+    }
+
+    #About #sample {
+        padding-bottom: 10px;
+    }
+
+    #Project {
+        overflow: hidden;
+    }
+
+    nav .brand-logo {
+        left: 55%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #Tools .row {
+        max-width: 70%;
+    }
+
+    #Services .services {
+        max-width: 80%;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #Tools .row {
+        max-width: 60%;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    #Tools .row {
+        max-width: 40%;
+    }
+
+    .nav-wrapper a img {
+        max-width: 100%;
+    }
+
+    #Home h1 {
+        font-size: 50px;
+        line-height: 1.3em;
+    }
+
+    #Tools .row img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    #Tools .row {
+        max-width: 30%;
+    }
+
+    #Tools .row h5 {
+        font-size: 16px;
+    }
+} */ */
